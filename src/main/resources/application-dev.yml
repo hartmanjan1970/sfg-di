@@ -1,0 +1,4 @@
+guru:
+  username: superUserAAA
+  password: dbPasswordAAA
+  jdbcurl: someUrlForDbAAA

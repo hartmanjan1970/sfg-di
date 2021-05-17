@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active: EN, dog, prod
+
+guru:
+  username: DevUserBBBB
+  password: DevDbPasswordBBBB
+  jdbcurl: DevbUrlForDbBBBB
+
+---
+spring:
+  profiles: prod
+
+guru:
+  username: DevUserCCCC
+  password: DevDbPasswordCCCC
+  jdbcurl: DevbUrlForDbCCCC
